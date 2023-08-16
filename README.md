@@ -3,6 +3,7 @@ Use Rich-Harris's [degit](https://github.com/Rich-Harris/degit) to copy the temp
 ## Template list
 - Vite + Tailwind + Sass
   ```console
+  npm i
   npm run sass
   npm run dev
   ```
