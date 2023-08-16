@@ -1,8 +1,8 @@
 # Vite templates
 Use Rich-Harris's [degit](https://github.com/Rich-Harris/degit) to copy the template.
 ## Template list
-- Vite + Tailwind + Sass
-  Install dependencies, and let sass watch change in ./src/scss/style.scss
+- Vite + Tailwind + Sass\
+  Install dependencies, and let sass watch changes in ./src/scss/style.scss
   ```console
   npm i
   npm run sass
