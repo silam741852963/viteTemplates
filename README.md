@@ -5,6 +5,12 @@ Use Rich-Harris's [degit](https://github.com/Rich-Harris/degit) to copy the temp
 ## Template list
 
 - Vite + Tailwind + Sass
+
+  Copy the template.
+
+  ```console
+  degit silam741852963/viteTemplates/vite_tailwind_sass
+  ```
   
   Install dependencies, and let sass watch changes in ./src/scss/style.scss
   
