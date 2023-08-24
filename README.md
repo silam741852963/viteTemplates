@@ -19,6 +19,11 @@ Use Rich-Harris's [degit](https://github.com/Rich-Harris/degit) to copy the temp
   npm run sass
   ```
   
+  Run local JSON server.
+  ```
+  npm run server
+  ```
+    
   Locally host your project.
   ```console
   npm run dev
