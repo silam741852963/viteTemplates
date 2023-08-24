@@ -23,5 +23,3 @@ Use Rich-Harris's [degit](https://github.com/Rich-Harris/degit) to copy the temp
   ```console
   npm run dev
   ```
-  
-  Art source: [にしろしまー先生](https://twitter.com/shimachan_121/status/1691078494443499520).
