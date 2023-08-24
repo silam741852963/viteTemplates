@@ -5,6 +5,7 @@ Use Rich-Harris's [degit](https://github.com/Rich-Harris/degit) to copy the temp
 ## Template list
 
 - Vite + Tailwind + Sass
+  
   I added framer-motion to do the animations.
 
   Copy the template.
